@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 <!--
 **G4Y-DRUGZ-EXP0ZED-Oct-20203/G4Y-DRUGZ-EXP0ZED-Oct-20203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
